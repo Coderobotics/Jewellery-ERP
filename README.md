@@ -3,7 +3,7 @@
 
 Jewellery ERP is an innovative desktop ERP software specifically developed for the Jewellery industry, allowing Jewellery business seamless management operations by combining functionality, ease of use, and flexibility. Jewellery ERP is a robust Jewellery software which provides a fully integrated ERP platform for running a manufacturing shop in-house and moreover. Jewellery ERP is the industry standard for Jewellery retailers, whole sellers and manufacturers. It is a complete system for managing your entire operation, from sales, manufacturing, purchasing and financial management. Jewellery ERP designed specifically for Jewellery Industry. It is easy to use, windows based client server software. It offers a comprehensive solution for accounting, point of sales, inventory and manufacturing process needs of jewelers. Jewellery ERP is very simple to use, no technical knowledge required to use it, even backup can be taken from a non-technical person. You can start using it just a few hours after it’s installed. Jewellery ERP to manage both Retail and Wholesale Jewellery that deals with automation and it includes both purchasing and selling of items. Jewellary ERP manages organization, branch details, orders, sales, items details, customers, vendors, goldsmith details, jangad details and reports. Jewellery ERP is developed in C#.Net with MSSQL database.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/jewellery-erp-1-1.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738273413_438694308e8fd3087e51.webp">
 
 <b>Jewellery ERP has the following key features:</b>
 
@@ -26,5 +26,15 @@ Jewellery ERP is an innovative desktop ERP software specifically developed for t
 <li>Utilities (Calculator, Word)</li>
 <li>Shortcut Keys</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/jewellery-erp/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/jewellery-erp
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
